@@ -1,0 +1,24 @@
+<svg width="900" height="1200" viewBox="0 0 900 1200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bottle" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#1a1a1f"/>
+      <stop offset="100%" stop-color="#0c0c0f"/>
+    </linearGradient>
+    <radialGradient id="halo" cx="50%" cy="40%" r="50%">
+      <stop offset="0%" stop-color="#c8a45d" stop-opacity="0.5"/>
+      <stop offset="60%" stop-color="#c8a45d" stop-opacity="0.08"/>
+      <stop offset="100%" stop-color="#111118" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="900" height="1200" fill="#0b0b0f"/>
+  <rect width="900" height="1200" fill="url(#halo)"/>
+  <rect x="310" y="360" width="280" height="520" rx="38" fill="url(#bottle)" stroke="#2a2a32" stroke-width="6"/>
+  <rect x="340" y="340" width="220" height="60" rx="10" fill="#0f0f14" stroke="#2a2a32" stroke-width="5"/>
+  <rect x="410" y="300" width="80" height="60" rx="10" fill="#0f0f14" stroke="#2a2a32" stroke-width="5"/>
+  <rect x="344" y="430" width="212" height="350" rx="30" fill="#101016"/>
+  <text x="450" y="620" text-anchor="middle" fill="#c8a45d" font-family="'Playfair Display', serif" font-size="40" letter-spacing="6">LUNARIS</text>
+  <text x="450" y="660" text-anchor="middle" fill="#c8a45d" font-family="Poppins, sans-serif" font-size="14" letter-spacing="3">PARFUM</text>
+  <circle cx="450" cy="470" r="40" fill="none" stroke="#c8a45d" stroke-width="2" opacity="0.6"/>
+  <circle cx="450" cy="470" r="28" fill="none" stroke="#c8a45d" stroke-width="2" opacity="0.7"/>
+  <circle cx="450" cy="470" r="16" fill="#c8a45d" opacity="0.8"/>
+</svg>
